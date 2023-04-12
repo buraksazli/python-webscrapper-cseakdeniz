@@ -1,5 +1,5 @@
 import urllib.request
-
+#website url
 url = "https://obs.akdeniz.edu.tr/oibs//bologna/progCourses.aspx?lang=en&curSunit=1040"
 
 response = urllib.request.urlopen(url)
